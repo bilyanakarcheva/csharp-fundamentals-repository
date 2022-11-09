@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.exe
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\bin\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.genruntimeconfig.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\01.SumAdjacentEqualNumbers\01.SumAdjacentEqualNumbers\obj\Debug\netcoreapp3.1\01.SumAdjacentEqualNumbers.csprojAssemblyReference.cache
