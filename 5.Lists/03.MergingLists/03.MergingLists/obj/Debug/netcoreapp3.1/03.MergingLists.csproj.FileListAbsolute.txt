@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.exe
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\bin\Debug\netcoreapp3.1\03.MergingLists.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.5 Lists\03.MergingLists\03.MergingLists\obj\Debug\netcoreapp3.1\03.MergingLists.genruntimeconfig.cache
