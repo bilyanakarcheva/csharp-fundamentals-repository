@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.exe
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\bin\Debug\netcoreapp3.1\02.OddOccurrences.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.7 Associative Arrays\02.OddOccurrences\02.OddOccurrences\obj\Debug\netcoreapp3.1\02.OddOccurrences.genruntimeconfig.cache
