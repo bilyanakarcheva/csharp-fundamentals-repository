@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\bin\Debug\net6.0\05.RemoveNegativesAndReverseV2.exe
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\bin\Debug\net6.0\05.RemoveNegativesAndReverseV2.deps.json
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\bin\Debug\net6.0\05.RemoveNegativesAndReverseV2.runtimeconfig.json
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\bin\Debug\net6.0\05.RemoveNegativesAndReverseV2.dll
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\bin\Debug\net6.0\ref\05.RemoveNegativesAndReverseV2.dll
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\bin\Debug\net6.0\05.RemoveNegativesAndReverseV2.pdb
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\obj\Debug\net6.0\05.RemoveNegativesAndReverseV2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\obj\Debug\net6.0\05.RemoveNegativesAndReverseV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\obj\Debug\net6.0\05.RemoveNegativesAndReverseV2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\obj\Debug\net6.0\05.RemoveNegativesAndReverseV2.AssemblyInfo.cs
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\obj\Debug\net6.0\05.RemoveNegativesAndReverseV2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\obj\Debug\net6.0\05.RemoveNegativesAndReverseV2.dll
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\obj\Debug\net6.0\ref\05.RemoveNegativesAndReverseV2.dll
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\obj\Debug\net6.0\05.RemoveNegativesAndReverseV2.pdb
+C:\Users\PC\source\repos\Lec.5 Lists\05.RemoveNegativesAndReverseV2\05.RemoveNegativesAndReverseV2\obj\Debug\net6.0\05.RemoveNegativesAndReverseV2.genruntimeconfig.cache
