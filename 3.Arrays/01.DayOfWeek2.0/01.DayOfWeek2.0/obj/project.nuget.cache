@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/il8Auq/YTMDvlJGpq10Bv83e3rmFAdjaVxFfU9HNMrWxZE30K1MjNdWAWy7b3ryRwZVx+79+zPkxjqz6lUfxA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bilyana.karcheva\\source\\repos\\Lec.3 Arrays\\01.DayOfWeek2.0\\01.DayOfWeek2.0\\01.DayOfWeek2.0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilyana.karcheva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

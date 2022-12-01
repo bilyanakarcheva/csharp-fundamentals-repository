@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\bin\Debug\netcoreapp3.1\01.DayOfWeek2.0.exe
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\bin\Debug\netcoreapp3.1\01.DayOfWeek2.0.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\bin\Debug\netcoreapp3.1\01.DayOfWeek2.0.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\bin\Debug\netcoreapp3.1\01.DayOfWeek2.0.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\bin\Debug\netcoreapp3.1\01.DayOfWeek2.0.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\bin\Debug\netcoreapp3.1\01.DayOfWeek2.0.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\obj\Debug\netcoreapp3.1\01.DayOfWeek2.0.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\obj\Debug\netcoreapp3.1\01.DayOfWeek2.0.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\obj\Debug\netcoreapp3.1\01.DayOfWeek2.0.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\obj\Debug\netcoreapp3.1\01.DayOfWeek2.0.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\obj\Debug\netcoreapp3.1\01.DayOfWeek2.0.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\obj\Debug\netcoreapp3.1\01.DayOfWeek2.0.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\01.DayOfWeek2.0\01.DayOfWeek2.0\obj\Debug\netcoreapp3.1\01.DayOfWeek2.0.genruntimeconfig.cache
