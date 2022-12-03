@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\bin\Debug\net5.0\06.ListManipulationBasicsV2.exe
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\bin\Debug\net5.0\06.ListManipulationBasicsV2.deps.json
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\bin\Debug\net5.0\06.ListManipulationBasicsV2.runtimeconfig.json
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\bin\Debug\net5.0\06.ListManipulationBasicsV2.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\bin\Debug\net5.0\06.ListManipulationBasicsV2.dll
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\bin\Debug\net5.0\ref\06.ListManipulationBasicsV2.dll
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\bin\Debug\net5.0\06.ListManipulationBasicsV2.pdb
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\obj\Debug\net5.0\06.ListManipulationBasicsV2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\obj\Debug\net5.0\06.ListManipulationBasicsV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\obj\Debug\net5.0\06.ListManipulationBasicsV2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\obj\Debug\net5.0\06.ListManipulationBasicsV2.AssemblyInfo.cs
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\obj\Debug\net5.0\06.ListManipulationBasicsV2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\obj\Debug\net5.0\06.ListManipulationBasicsV2.dll
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\obj\Debug\net5.0\ref\06.ListManipulationBasicsV2.dll
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\obj\Debug\net5.0\06.ListManipulationBasicsV2.pdb
+C:\Users\PC\source\repos\Lec.5 Lists\06.ListManipulationBasicsV2\06.ListManipulationBasicsV2\obj\Debug\net5.0\06.ListManipulationBasicsV2.genruntimeconfig.cache
