@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\bin\Debug\net5.0\07.ListManipulationAdvancedV2.exe
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\bin\Debug\net5.0\07.ListManipulationAdvancedV2.deps.json
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\bin\Debug\net5.0\07.ListManipulationAdvancedV2.runtimeconfig.json
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\bin\Debug\net5.0\07.ListManipulationAdvancedV2.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\bin\Debug\net5.0\07.ListManipulationAdvancedV2.dll
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\bin\Debug\net5.0\ref\07.ListManipulationAdvancedV2.dll
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\bin\Debug\net5.0\07.ListManipulationAdvancedV2.pdb
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\obj\Debug\net5.0\07.ListManipulationAdvancedV2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\obj\Debug\net5.0\07.ListManipulationAdvancedV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\obj\Debug\net5.0\07.ListManipulationAdvancedV2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\obj\Debug\net5.0\07.ListManipulationAdvancedV2.AssemblyInfo.cs
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\obj\Debug\net5.0\07.ListManipulationAdvancedV2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\obj\Debug\net5.0\07.ListManipulationAdvancedV2.dll
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\obj\Debug\net5.0\ref\07.ListManipulationAdvancedV2.dll
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\obj\Debug\net5.0\07.ListManipulationAdvancedV2.pdb
+C:\Users\PC\source\repos\Lec.5 Lists\07.ListManipulationAdvancedV2\07.ListManipulationAdvancedV2\obj\Debug\net5.0\07.ListManipulationAdvancedV2.genruntimeconfig.cache
