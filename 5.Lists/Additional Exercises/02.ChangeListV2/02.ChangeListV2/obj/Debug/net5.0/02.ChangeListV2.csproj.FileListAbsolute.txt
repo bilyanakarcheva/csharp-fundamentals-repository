@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\bin\Debug\net5.0\02.ChangeListV2.exe
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\bin\Debug\net5.0\02.ChangeListV2.deps.json
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\bin\Debug\net5.0\02.ChangeListV2.runtimeconfig.json
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\bin\Debug\net5.0\02.ChangeListV2.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\bin\Debug\net5.0\02.ChangeListV2.dll
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\bin\Debug\net5.0\ref\02.ChangeListV2.dll
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\bin\Debug\net5.0\02.ChangeListV2.pdb
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\obj\Debug\net5.0\02.ChangeListV2.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\obj\Debug\net5.0\02.ChangeListV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\obj\Debug\net5.0\02.ChangeListV2.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\obj\Debug\net5.0\02.ChangeListV2.AssemblyInfo.cs
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\obj\Debug\net5.0\02.ChangeListV2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\obj\Debug\net5.0\02.ChangeListV2.dll
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\obj\Debug\net5.0\ref\02.ChangeListV2.dll
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\obj\Debug\net5.0\02.ChangeListV2.pdb
+C:\Users\PC\source\repos\Ex.5 Lists\02.ChangeListV2\02.ChangeListV2\obj\Debug\net5.0\02.ChangeListV2.genruntimeconfig.cache
