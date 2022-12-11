@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.exe
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.deps.json
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.dll
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\bin\Debug\netcoreapp3.1\03.HouseParty.pdb
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.dll
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.pdb
+C:\Users\bilyana.karcheva\source\repos\Ex.5 Lists\03.HouseParty\03.HouseParty\obj\Debug\netcoreapp3.1\03.HouseParty.genruntimeconfig.cache
