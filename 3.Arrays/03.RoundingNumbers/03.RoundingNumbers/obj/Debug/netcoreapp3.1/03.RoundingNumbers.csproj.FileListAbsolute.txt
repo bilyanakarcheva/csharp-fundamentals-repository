@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.exe
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\bin\Debug\netcoreapp3.1\03.RoundingNumbers.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\03.RoundingNumbers\03.RoundingNumbers\obj\Debug\netcoreapp3.1\03.RoundingNumbers.genruntimeconfig.cache
