@@ -1,0 +1,12 @@
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\05.SumEvenNumbers\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.exe
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\05.SumEvenNumbers\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\05.SumEvenNumbers\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\05.SumEvenNumbers\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\05.SumEvenNumbers\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\05.SumEvenNumbers\05.SumEvenNumbers\bin\Debug\netcoreapp3.1\05.SumEvenNumbers.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\05.SumEvenNumbers\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\05.SumEvenNumbers\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\05.SumEvenNumbers\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\05.SumEvenNumbers\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\05.SumEvenNumbers\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\05.SumEvenNumbers\05.SumEvenNumbers\obj\Debug\netcoreapp3.1\05.SumEvenNumbers.genruntimeconfig.cache
