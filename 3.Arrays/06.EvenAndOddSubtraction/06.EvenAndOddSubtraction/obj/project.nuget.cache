@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "JX2eTzA4WgJnuUg1V0evnWZB9op0A60wgD/ndh/5Hl3mu+6GzOWZMYRPyg6z2GCAgMCuwnQX4E9xxFwUf+811A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bilyana.karcheva\\source\\repos\\Lec.3 Arrays\\06.EvenAndOddSubtraction\\06.EvenAndOddSubtraction\\06.EvenAndOddSubtraction.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilyana.karcheva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

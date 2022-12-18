@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.exe
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\bin\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\06.EvenAndOddSubtraction\06.EvenAndOddSubtraction\obj\Debug\netcoreapp3.1\06.EvenAndOddSubtraction.genruntimeconfig.cache
