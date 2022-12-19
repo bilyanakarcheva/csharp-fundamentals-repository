@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.exe
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\bin\Debug\netcoreapp3.1\07.EqualArrays.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\07.EqualArrays\07.EqualArrays\obj\Debug\netcoreapp3.1\07.EqualArrays.genruntimeconfig.cache
