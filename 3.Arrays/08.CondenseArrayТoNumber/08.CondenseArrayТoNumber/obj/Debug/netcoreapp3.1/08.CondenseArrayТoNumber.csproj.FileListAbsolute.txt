@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\bin\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.exe
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\bin\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\bin\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\bin\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\bin\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\bin\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.dll
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec.3 Arrays\08.CondenseArrayТoNumber\08.CondenseArrayТoNumber\obj\Debug\netcoreapp3.1\08.CondenseArrayТoNumber.genruntimeconfig.cache

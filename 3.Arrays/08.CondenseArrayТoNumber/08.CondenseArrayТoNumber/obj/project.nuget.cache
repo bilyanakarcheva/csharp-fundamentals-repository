@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "//CmyCjWUzKOd+KcH+rQFx2nb9O9AJLuSoAf8gEJdg9n3emLexLTPCtNWLZRQceAUPvD0nRbaSqzsNjf1pGSrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bilyana.karcheva\\source\\repos\\Lec.3 Arrays\\08.CondenseArrayТoNumber\\08.CondenseArrayТoNumber\\08.CondenseArrayТoNumber.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilyana.karcheva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
