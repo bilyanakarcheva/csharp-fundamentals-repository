@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2cZmjMe/UsgFEqOAERVg7cnVqGJQjkbJmR0VF9mfkYusTEcyTuzTqpvRRV5xMTjcEZSeXDd7ebWo++imQ4JOdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bilyana.karcheva\\source\\repos\\Ex.3 Arrays\\02.CommonElements\\02.CommonElements\\02.CommonElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilyana.karcheva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

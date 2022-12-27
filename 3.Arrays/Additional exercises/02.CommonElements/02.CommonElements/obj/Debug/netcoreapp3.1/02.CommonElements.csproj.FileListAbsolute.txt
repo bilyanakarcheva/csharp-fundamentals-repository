@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.exe
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.deps.json
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.dll
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\bin\Debug\netcoreapp3.1\02.CommonElements.pdb
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.dll
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.pdb
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\02.CommonElements\02.CommonElements\obj\Debug\netcoreapp3.1\02.CommonElements.genruntimeconfig.cache
