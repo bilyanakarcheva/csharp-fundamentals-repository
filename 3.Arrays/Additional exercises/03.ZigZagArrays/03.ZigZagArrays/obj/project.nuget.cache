@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jzR0orPg62MfvJSnOy7STdG5Dn9R4wPuXoCUloc5gLnVViJpLLFpRAus0m3HoHsKlf+WbQwfRyv3sdeKdTxWEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bilyana.karcheva\\source\\repos\\Ex.3 Arrays\\03.ZigZagArrays\\03.ZigZagArrays\\03.ZigZagArrays.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilyana.karcheva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
