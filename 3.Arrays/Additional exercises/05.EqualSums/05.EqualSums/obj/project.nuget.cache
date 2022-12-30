@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GhPrc3WJ7ih8Rv3QqqTefCKsiIOhoAn2GR0u+36eorc62EUo1OZW6vR7uioyyXcaJNxPmmy7XV+BqyimEuB2AA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bilyana.karcheva\\source\\repos\\Ex.3 Arrays\\05.EqualSums\\05.EqualSums\\05.EqualSums.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilyana.karcheva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
