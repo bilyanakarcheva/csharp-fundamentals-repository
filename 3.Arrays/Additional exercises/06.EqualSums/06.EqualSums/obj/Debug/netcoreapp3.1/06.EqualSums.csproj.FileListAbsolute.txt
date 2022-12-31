@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\bin\Debug\netcoreapp3.1\06.EqualSums.exe
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\bin\Debug\netcoreapp3.1\06.EqualSums.deps.json
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\bin\Debug\netcoreapp3.1\06.EqualSums.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\bin\Debug\netcoreapp3.1\06.EqualSums.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\bin\Debug\netcoreapp3.1\06.EqualSums.dll
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\bin\Debug\netcoreapp3.1\06.EqualSums.pdb
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\obj\Debug\netcoreapp3.1\06.EqualSums.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\obj\Debug\netcoreapp3.1\06.EqualSums.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\obj\Debug\netcoreapp3.1\06.EqualSums.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\obj\Debug\netcoreapp3.1\06.EqualSums.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\obj\Debug\netcoreapp3.1\06.EqualSums.dll
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\obj\Debug\netcoreapp3.1\06.EqualSums.pdb
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\06.EqualSums\06.EqualSums\obj\Debug\netcoreapp3.1\06.EqualSums.genruntimeconfig.cache
