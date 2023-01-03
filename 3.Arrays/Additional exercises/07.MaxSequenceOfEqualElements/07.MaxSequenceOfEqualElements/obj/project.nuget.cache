@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vZzWC6UYLLq74pSqoUhk9oIst4uMvQxbEeRxmlfq/Na//Qp2PeHNhO2rLDQNqAt2W8NMCRiwL+HhJ9ubquBa9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bilyana.karcheva\\source\\repos\\Ex.3 Arrays\\07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements\\07.MaxSequenceOfEqualElements.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bilyana.karcheva\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

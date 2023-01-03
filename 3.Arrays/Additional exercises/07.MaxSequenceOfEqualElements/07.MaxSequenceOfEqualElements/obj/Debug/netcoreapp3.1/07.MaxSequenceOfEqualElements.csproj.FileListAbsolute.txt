@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.exe
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.deps.json
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\bin\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.dll
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.pdb
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\07.MaxSequenceOfEqualElements\07.MaxSequenceOfEqualElements\obj\Debug\netcoreapp3.1\07.MaxSequenceOfEqualElements.genruntimeconfig.cache
