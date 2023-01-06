@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\obj\Debug\netcoreapp3.1\505.TopIntegers.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\obj\Debug\netcoreapp3.1\505.TopIntegers.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\obj\Debug\netcoreapp3.1\505.TopIntegers.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\obj\Debug\netcoreapp3.1\505.TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\bin\Debug\netcoreapp3.1\505.TopIntegers.exe
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\bin\Debug\netcoreapp3.1\505.TopIntegers.deps.json
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\bin\Debug\netcoreapp3.1\505.TopIntegers.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\bin\Debug\netcoreapp3.1\505.TopIntegers.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\bin\Debug\netcoreapp3.1\505.TopIntegers.dll
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\bin\Debug\netcoreapp3.1\505.TopIntegers.pdb
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\obj\Debug\netcoreapp3.1\505.TopIntegers.dll
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\obj\Debug\netcoreapp3.1\505.TopIntegers.pdb
+C:\Users\bilyana.karcheva\source\repos\Ex.3 Arrays\505.TopIntegers\505.TopIntegers\obj\Debug\netcoreapp3.1\505.TopIntegers.genruntimeconfig.cache
