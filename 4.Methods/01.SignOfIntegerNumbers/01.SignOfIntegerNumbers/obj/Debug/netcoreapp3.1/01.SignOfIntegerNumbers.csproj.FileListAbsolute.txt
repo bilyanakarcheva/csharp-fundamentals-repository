@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.exe
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.dll
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\bin\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.pdb
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.dll
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.pdb
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\01.SignOfIntegerNumbers\01.SignOfIntegerNumbers\obj\Debug\netcoreapp3.1\01.SignOfIntegerNumbers.genruntimeconfig.cache
