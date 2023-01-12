@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.exe
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.dll
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\bin\Debug\netcoreapp3.1\04.PrintingTriangle.pdb
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.dll
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.pdb
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.genruntimeconfig.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\04.PrintingTriangle\04.PrintingTriangle\obj\Debug\netcoreapp3.1\04.PrintingTriangle.csprojAssemblyReference.cache
