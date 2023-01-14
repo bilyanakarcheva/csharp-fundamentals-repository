@@ -1,0 +1,12 @@
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\6.CalculateRectangleArea\6.CalculateRectangleArea\bin\Debug\netcoreapp3.1\6.CalculateRectangleArea.exe
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\6.CalculateRectangleArea\6.CalculateRectangleArea\bin\Debug\netcoreapp3.1\6.CalculateRectangleArea.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\6.CalculateRectangleArea\6.CalculateRectangleArea\bin\Debug\netcoreapp3.1\6.CalculateRectangleArea.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\6.CalculateRectangleArea\6.CalculateRectangleArea\bin\Debug\netcoreapp3.1\6.CalculateRectangleArea.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\6.CalculateRectangleArea\6.CalculateRectangleArea\bin\Debug\netcoreapp3.1\6.CalculateRectangleArea.dll
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\6.CalculateRectangleArea\6.CalculateRectangleArea\bin\Debug\netcoreapp3.1\6.CalculateRectangleArea.pdb
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\6.CalculateRectangleArea\6.CalculateRectangleArea\obj\Debug\netcoreapp3.1\6.CalculateRectangleArea.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\6.CalculateRectangleArea\6.CalculateRectangleArea\obj\Debug\netcoreapp3.1\6.CalculateRectangleArea.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\6.CalculateRectangleArea\6.CalculateRectangleArea\obj\Debug\netcoreapp3.1\6.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\6.CalculateRectangleArea\6.CalculateRectangleArea\obj\Debug\netcoreapp3.1\6.CalculateRectangleArea.dll
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\6.CalculateRectangleArea\6.CalculateRectangleArea\obj\Debug\netcoreapp3.1\6.CalculateRectangleArea.pdb
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\6.CalculateRectangleArea\6.CalculateRectangleArea\obj\Debug\netcoreapp3.1\6.CalculateRectangleArea.genruntimeconfig.cache
