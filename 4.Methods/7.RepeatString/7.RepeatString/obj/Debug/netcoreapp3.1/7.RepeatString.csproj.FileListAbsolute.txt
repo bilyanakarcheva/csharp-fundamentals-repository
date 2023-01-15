@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\bin\Debug\netcoreapp3.1\7.RepeatString.exe
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\bin\Debug\netcoreapp3.1\7.RepeatString.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\bin\Debug\netcoreapp3.1\7.RepeatString.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\bin\Debug\netcoreapp3.1\7.RepeatString.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\bin\Debug\netcoreapp3.1\7.RepeatString.dll
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\bin\Debug\netcoreapp3.1\7.RepeatString.pdb
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\obj\Debug\netcoreapp3.1\7.RepeatString.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\obj\Debug\netcoreapp3.1\7.RepeatString.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\obj\Debug\netcoreapp3.1\7.RepeatString.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\obj\Debug\netcoreapp3.1\7.RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\obj\Debug\netcoreapp3.1\7.RepeatString.dll
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\obj\Debug\netcoreapp3.1\7.RepeatString.pdb
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\7.RepeatString\7.RepeatString\obj\Debug\netcoreapp3.1\7.RepeatString.genruntimeconfig.cache
