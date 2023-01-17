@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\bin\Debug\netcoreapp3.1\8.MathPower.exe
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\bin\Debug\netcoreapp3.1\8.MathPower.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\bin\Debug\netcoreapp3.1\8.MathPower.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\bin\Debug\netcoreapp3.1\8.MathPower.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\bin\Debug\netcoreapp3.1\8.MathPower.dll
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\bin\Debug\netcoreapp3.1\8.MathPower.pdb
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\obj\Debug\netcoreapp3.1\8.MathPower.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\obj\Debug\netcoreapp3.1\8.MathPower.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\obj\Debug\netcoreapp3.1\8.MathPower.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\obj\Debug\netcoreapp3.1\8.MathPower.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\obj\Debug\netcoreapp3.1\8.MathPower.dll
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\obj\Debug\netcoreapp3.1\8.MathPower.pdb
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\8.MathPower\8.MathPower\obj\Debug\netcoreapp3.1\8.MathPower.genruntimeconfig.cache
