@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.exe
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.dll
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\bin\Debug\netcoreapp3.1\11.MathOperations.pdb
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.dll
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.pdb
+C:\Users\bilyana.karcheva\source\repos\Lab.4 Methods\11.MathOperations\11.MathOperations\obj\Debug\netcoreapp3.1\11.MathOperations.genruntimeconfig.cache
