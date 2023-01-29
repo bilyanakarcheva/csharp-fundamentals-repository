@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.exe
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.deps.json
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.dll
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\bin\Debug\netcoreapp3.1\02.CharacterMultiplier.pdb
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.dll
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.pdb
+C:\Users\bilyana.karcheva\source\repos\Ex.7 Associative Arrays\02.CharacterMultiplier\02.CharacterMultiplier\obj\Debug\netcoreapp3.1\02.CharacterMultiplier.genruntimeconfig.cache
