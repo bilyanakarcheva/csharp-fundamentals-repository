@@ -1,0 +1,13 @@
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\bin\Debug\netcoreapp3.1\01.Reverse Strings.exe
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\bin\Debug\netcoreapp3.1\01.Reverse Strings.deps.json
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\bin\Debug\netcoreapp3.1\01.Reverse Strings.runtimeconfig.json
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\bin\Debug\netcoreapp3.1\01.Reverse Strings.runtimeconfig.dev.json
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\bin\Debug\netcoreapp3.1\01.Reverse Strings.dll
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\bin\Debug\netcoreapp3.1\01.Reverse Strings.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\obj\Debug\netcoreapp3.1\01.Reverse Strings.csprojAssemblyReference.cache
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\obj\Debug\netcoreapp3.1\01.Reverse Strings.AssemblyInfoInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\obj\Debug\netcoreapp3.1\01.Reverse Strings.AssemblyInfo.cs
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\obj\Debug\netcoreapp3.1\01.Reverse Strings.csproj.CoreCompileInputs.cache
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\obj\Debug\netcoreapp3.1\01.Reverse Strings.dll
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\obj\Debug\netcoreapp3.1\01.Reverse Strings.pdb
+C:\Users\bilyana.karcheva\source\repos\Lec. 8 Text Processing\01.Reverse Strings\01.Reverse Strings\obj\Debug\netcoreapp3.1\01.Reverse Strings.genruntimeconfig.cache
